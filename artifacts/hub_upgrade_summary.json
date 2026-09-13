@@ -1,0 +1,11 @@
+{
+  "selected_hubs": 3,
+  "original_proxy_breaches": 6967,
+  "expected_remaining_proxy_breaches": 6777.4749999999985,
+  "expected_prevented_proxy_breaches": 189.52500000000146,
+  "late_delivery_reduction_pct": 2.7203243863930164,
+  "movement_minutes_saved": 52796.48,
+  "scenario_revenue_recovered": 189525.00000000146,
+  "improvement_fraction": 0.3,
+  "revenue_per_prevented_breach": 1000.0
+}

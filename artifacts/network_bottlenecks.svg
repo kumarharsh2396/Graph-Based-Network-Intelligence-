@@ -1,0 +1,233 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#64748b"/></marker></defs>
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="35" y="35" font-family="Arial" font-size="23" font-weight="700" fill="#0f172a">Priority Logistics Network</text>
+<text x="35" y="58" font-family="Arial" font-size="13" fill="#475569">Red = top five bottleneck hubs; orange = chronic-delay corridor</text>
+<line x1="504.3" y1="302.4" x2="474.3" y2="255.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.3" y1="302.4" x2="517.4" y2="295.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.3" y1="302.4" x2="530.2" y2="276.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.3" y1="302.4" x2="542.5" y2="373.2" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.3" y1="302.4" x2="504.0" y2="288.8" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="488.0" y1="261.1" x2="474.3" y2="255.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="488.0" y1="261.1" x2="510.7" y2="271.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="515.9" y1="277.3" x2="510.7" y2="271.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="515.9" y1="277.3" x2="522.1" y2="283.9" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="408.5" y1="264.5" x2="406.2" y2="266.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="408.5" y1="264.5" x2="411.3" y2="262.7" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="522.1" y1="283.9" x2="474.3" y2="255.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="522.1" y1="283.9" x2="530.2" y2="276.1" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="522.1" y1="283.9" x2="538.0" y2="286.3" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="522.1" y1="283.9" x2="533.6" y2="283.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="522.1" y1="283.9" x2="460.5" y2="745.0" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="522.1" y1="283.9" x2="516.2" y2="305.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="522.1" y1="283.9" x2="515.9" y2="277.3" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="522.1" y1="283.9" x2="623.0" y2="232.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="535.2" y1="289.4" x2="517.4" y2="295.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="535.2" y1="289.4" x2="548.2" y2="294.7" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="535.2" y1="289.4" x2="530.2" y2="276.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="462.2" y1="719.1" x2="460.5" y2="745.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="544.8" y1="378.6" x2="542.5" y2="373.2" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="1078.4" y1="506.4" x2="1145.0" y2="527.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.6" y1="342.5" x2="542.5" y2="373.2" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.6" y1="342.5" x2="516.2" y2="305.7" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="496.3" y1="294.6" x2="500.6" y2="290.9" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="454.2" y1="264.7" x2="474.3" y2="255.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="454.2" y1="264.7" x2="510.7" y2="271.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="454.2" y1="264.7" x2="411.3" y2="262.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="454.2" y1="264.7" x2="449.8" y2="267.0" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.0" y1="288.8" x2="474.3" y2="255.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.0" y1="288.8" x2="496.0" y2="263.6" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.0" y1="288.8" x2="507.6" y2="282.3" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.0" y1="288.8" x2="504.3" y2="302.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.0" y1="288.8" x2="530.2" y2="276.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.0" y1="288.8" x2="482.8" y2="259.3" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.0" y1="288.8" x2="542.5" y2="373.2" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.0" y1="288.8" x2="506.6" y2="291.9" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.0" y1="288.8" x2="503.9" y2="295.3" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.0" y1="288.8" x2="496.3" y2="294.6" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.0" y1="288.8" x2="524.7" y2="332.9" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.0" y1="288.8" x2="506.2" y2="288.8" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.0" y1="288.8" x2="522.1" y2="283.9" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="504.0" y1="288.8" x2="516.2" y2="305.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="495.3" y1="260.3" x2="493.0" y2="263.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="270.9" y1="71.6" x2="254.4" y2="55.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="507.6" y1="282.3" x2="510.7" y2="271.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="507.6" y1="282.3" x2="486.6" y2="265.9" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="507.6" y1="282.3" x2="504.3" y2="302.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="507.6" y1="282.3" x2="530.2" y2="276.1" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="507.6" y1="282.3" x2="504.0" y2="288.8" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="528.5" y1="286.0" x2="517.4" y2="295.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="528.5" y1="286.0" x2="530.2" y2="276.1" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="486.6" y1="265.9" x2="474.3" y2="255.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="486.6" y1="265.9" x2="507.6" y2="282.3" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="548.2" y1="294.7" x2="535.2" y2="289.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.2" y1="276.1" x2="474.3" y2="255.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.2" y1="276.1" x2="510.7" y2="271.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.2" y1="276.1" x2="454.2" y2="264.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.2" y1="276.1" x2="486.6" y2="265.9" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.2" y1="276.1" x2="507.6" y2="282.3" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.2" y1="276.1" x2="528.5" y2="286.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.2" y1="276.1" x2="517.4" y2="295.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.2" y1="276.1" x2="540.1" y2="271.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.2" y1="276.1" x2="535.2" y2="289.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.2" y1="276.1" x2="504.3" y2="302.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.2" y1="276.1" x2="482.8" y2="259.3" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.2" y1="276.1" x2="542.5" y2="373.2" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.2" y1="276.1" x2="504.0" y2="288.8" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.2" y1="276.1" x2="522.1" y2="283.9" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="530.2" y1="276.1" x2="623.0" y2="232.0" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="473.7" y1="251.0" x2="474.3" y2="255.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="467.4" y2="252.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="488.0" y2="261.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="454.2" y2="264.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="411.3" y2="262.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="473.7" y2="251.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="493.0" y2="263.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="496.0" y2="263.6" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="486.6" y2="265.9" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="504.3" y2="302.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="530.2" y2="276.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="482.8" y2="259.3" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="542.5" y2="373.2" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="504.0" y2="288.8" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="524.7" y2="332.9" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="522.1" y2="283.9" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="516.2" y2="305.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="623.0" y2="232.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="474.3" y1="255.0" x2="254.4" y2="55.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="517.4" y1="295.1" x2="528.5" y2="286.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="517.4" y1="295.1" x2="535.2" y2="289.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="517.4" y1="295.1" x2="504.3" y2="302.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="517.4" y1="295.1" x2="530.2" y2="276.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="502.3" y1="263.6" x2="496.0" y2="263.6" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="502.3" y1="263.6" x2="507.8" y2="261.8" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="506.2" y1="288.8" x2="504.0" y2="288.8" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="510.3" y1="291.1" x2="506.2" y2="288.8" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="259.1" y1="62.2" x2="254.4" y2="55.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="524.7" y1="332.9" x2="542.5" y2="373.2" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="524.7" y1="332.9" x2="530.6" y2="342.5" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="524.7" y1="332.9" x2="506.6" y2="291.9" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="524.7" y1="332.9" x2="504.0" y2="288.8" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="500.6" y1="290.9" x2="504.0" y2="288.8" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="542.5" y1="373.2" x2="474.3" y2="255.0" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="542.5" y1="373.2" x2="504.3" y2="302.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="542.5" y1="373.2" x2="482.8" y2="259.3" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="542.5" y1="373.2" x2="544.8" y2="378.6" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="542.5" y1="373.2" x2="267.9" y2="739.2" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="542.5" y1="373.2" x2="504.0" y2="288.8" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="542.5" y1="373.2" x2="996.2" y2="705.5" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="542.5" y1="373.2" x2="522.1" y2="283.9" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="542.5" y1="373.2" x2="516.2" y2="305.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="533.6" y1="283.1" x2="522.1" y2="283.9" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="449.8" y1="267.0" x2="454.2" y2="264.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="449.8" y1="267.0" x2="439.8" y2="269.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="540.1" y1="271.7" x2="530.2" y2="276.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="297.3" y1="99.0" x2="254.4" y2="55.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="506.6" y1="291.9" x2="503.9" y2="295.3" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="506.6" y1="291.9" x2="504.0" y2="288.8" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="506.6" y1="291.9" x2="506.2" y2="288.8" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="496.0" y1="263.6" x2="474.3" y2="255.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="496.0" y1="263.6" x2="510.7" y2="271.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="496.0" y1="263.6" x2="507.8" y2="261.8" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="496.0" y1="263.6" x2="502.3" y2="263.6" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="261.2" y1="59.6" x2="254.4" y2="55.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="545.6" y1="274.7" x2="530.2" y2="276.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="516.2" y1="305.7" x2="530.6" y2="342.5" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="516.2" y1="305.7" x2="504.0" y2="288.8" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="516.2" y1="305.7" x2="522.1" y2="283.9" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="439.8" y1="269.1" x2="449.8" y2="267.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="538.0" y1="286.3" x2="522.1" y2="283.9" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="510.7" y1="271.4" x2="474.3" y2="255.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="510.7" y1="271.4" x2="467.4" y2="252.4" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="510.7" y1="271.4" x2="488.0" y2="261.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="510.7" y1="271.4" x2="454.2" y2="264.7" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="510.7" y1="271.4" x2="493.0" y2="263.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="510.7" y1="271.4" x2="530.2" y2="276.1" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="482.8" y1="259.3" x2="474.3" y2="255.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="482.8" y1="259.3" x2="493.0" y2="263.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="467.4" y1="252.4" x2="474.3" y2="255.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="492.2" y1="266.1" x2="493.0" y2="263.7" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="623.0" y1="232.0" x2="474.3" y2="255.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="623.0" y1="232.0" x2="1082.4" y2="159.6" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="406.2" y1="266.0" x2="408.5" y2="264.5" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="406.2" y1="266.0" x2="411.3" y2="262.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="507.8" y1="261.8" x2="502.3" y2="263.6" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="66.1" y1="176.2" x2="55.0" y2="174.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="493.0" y1="263.7" x2="474.3" y2="255.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="493.0" y1="263.7" x2="510.7" y2="271.4" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="493.0" y1="263.7" x2="495.3" y2="260.3" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="503.9" y1="295.3" x2="506.6" y2="291.9" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="503.9" y1="295.3" x2="504.0" y2="288.8" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="302.7" y1="104.7" x2="254.4" y2="55.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="411.3" y1="262.7" x2="406.2" y2="266.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="411.3" y1="262.7" x2="474.3" y2="255.0" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="411.3" y1="262.7" x2="510.7" y2="271.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="411.3" y1="262.7" x2="454.2" y2="264.7" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="411.3" y1="262.7" x2="55.0" y2="174.4" stroke="#f97316" stroke-width="2.4" opacity="0.72" marker-end="url(#arrow)"/>
+<line x1="411.3" y1="262.7" x2="504.0" y2="288.8" stroke="#94a3b8" stroke-width="1.0" opacity="0.72" marker-end="url(#arrow)"/>
+<circle cx="504.3" cy="302.4" r="9.8" fill="#dc2626" opacity="0.88"><title>IND411033AAA: score 59.8</title></circle>
+<text x="517.1" y="306.4" font-family="Arial" font-size="11" fill="#0f172a">IND411033AAA</text>
+<circle cx="488.0" cy="261.1" r="8.8" fill="#2563eb" opacity="0.88"><title>IND121004AAB: score 47.1</title></circle>
+<circle cx="55.0" cy="174.4" r="8.5" fill="#2563eb" opacity="0.88"><title>IND174001AAA: score 44.2</title></circle>
+<circle cx="515.9" cy="277.3" r="8.9" fill="#2563eb" opacity="0.88"><title>IND781018AAB: score 49.0</title></circle>
+<circle cx="408.5" cy="264.5" r="7.9" fill="#2563eb" opacity="0.88"><title>IND152026AAA: score 35.9</title></circle>
+<circle cx="522.1" cy="283.9" r="9.6" fill="#2563eb" opacity="0.88"><title>IND712311AAA: score 57.8</title></circle>
+<circle cx="535.2" cy="289.4" r="8.3" fill="#2563eb" opacity="0.88"><title>IND401104AAA: score 41.4</title></circle>
+<circle cx="462.2" cy="719.1" r="7.1" fill="#2563eb" opacity="0.88"><title>IND712103AAA: score 26.7</title></circle>
+<circle cx="544.8" cy="378.6" r="7.1" fill="#2563eb" opacity="0.88"><title>IND500010AAB: score 26.7</title></circle>
+<circle cx="1078.4" cy="506.4" r="6.9" fill="#2563eb" opacity="0.88"><title>IND176310AAA: score 24.1</title></circle>
+<circle cx="530.6" cy="342.5" r="8.7" fill="#2563eb" opacity="0.88"><title>IND530012AAA: score 46.2</title></circle>
+<circle cx="496.3" cy="294.6" r="8.6" fill="#2563eb" opacity="0.88"><title>IND573201AAB: score 44.5</title></circle>
+<circle cx="454.2" cy="264.7" r="9.4" fill="#2563eb" opacity="0.88"><title>IND131028AAB: score 55.3</title></circle>
+<circle cx="504.0" cy="288.8" r="11.0" fill="#dc2626" opacity="0.88"><title>IND562132AAA: score 75.1</title></circle>
+<text x="518.0" y="292.8" font-family="Arial" font-size="11" fill="#0f172a">IND562132AAA</text>
+<circle cx="495.3" cy="260.3" r="8.8" fill="#2563eb" opacity="0.88"><title>IND211002AAB: score 47.9</title></circle>
+<circle cx="270.9" cy="71.6" r="8.3" fill="#2563eb" opacity="0.88"><title>IND851127AAA: score 40.8</title></circle>
+<circle cx="507.6" cy="282.3" r="8.7" fill="#2563eb" opacity="0.88"><title>IND395023AAA: score 46.7</title></circle>
+<circle cx="528.5" cy="286.0" r="7.5" fill="#2563eb" opacity="0.88"><title>IND400015AAA: score 31.8</title></circle>
+<circle cx="486.6" cy="265.9" r="9.2" fill="#2563eb" opacity="0.88"><title>IND382430AAB: score 52.7</title></circle>
+<circle cx="548.2" cy="294.7" r="6.7" fill="#2563eb" opacity="0.88"><title>IND401209AAA: score 20.8</title></circle>
+<circle cx="530.2" cy="276.1" r="10.7" fill="#dc2626" opacity="0.88"><title>IND421302AAG: score 71.8</title></circle>
+<text x="543.9" y="280.1" font-family="Arial" font-size="11" fill="#0f172a">IND421302AAG</text>
+<circle cx="473.7" cy="251.0" r="7.2" fill="#2563eb" opacity="0.88"><title>IND201301AAM: score 26.9</title></circle>
+<circle cx="474.3" cy="255.0" r="12.5" fill="#dc2626" opacity="0.88"><title>IND000000ACB: score 94.2</title></circle>
+<text x="489.9" y="259.0" font-family="Arial" font-size="11" fill="#0f172a">IND000000ACB</text>
+<circle cx="460.5" cy="745.0" r="8.4" fill="#2563eb" opacity="0.88"><title>IND712310AAE: score 42.6</title></circle>
+<circle cx="517.4" cy="295.1" r="8.9" fill="#2563eb" opacity="0.88"><title>IND400072AAB: score 49.3</title></circle>
+<circle cx="502.3" cy="263.6" r="8.5" fill="#2563eb" opacity="0.88"><title>IND306401AAB: score 44.2</title></circle>
+<circle cx="996.2" cy="705.5" r="8.8" fill="#2563eb" opacity="0.88"><title>IND585104AAA: score 47.7</title></circle>
+<circle cx="506.2" cy="288.8" r="8.7" fill="#2563eb" opacity="0.88"><title>IND683511AAA: score 46.4</title></circle>
+<circle cx="510.3" cy="291.1" r="8.7" fill="#2563eb" opacity="0.88"><title>IND691001AAB: score 46.1</title></circle>
+<circle cx="259.1" cy="62.2" r="7.4" fill="#2563eb" opacity="0.88"><title>IND844505AAB: score 29.5</title></circle>
+<circle cx="524.7" cy="332.9" r="9.3" fill="#2563eb" opacity="0.88"><title>IND600056AAB: score 53.4</title></circle>
+<circle cx="500.6" cy="290.9" r="8.6" fill="#2563eb" opacity="0.88"><title>IND575004AAB: score 44.4</title></circle>
+<circle cx="542.5" cy="373.2" r="9.8" fill="#dc2626" opacity="0.88"><title>IND501359AAE: score 59.8</title></circle>
+<text x="555.2" y="377.2" font-family="Arial" font-size="11" fill="#0f172a">IND501359AAE</text>
+<circle cx="267.9" cy="739.2" r="8.7" fill="#2563eb" opacity="0.88"><title>IND506002AAA: score 46.3</title></circle>
+<circle cx="533.6" cy="283.1" r="7.0" fill="#2563eb" opacity="0.88"><title>IND700088AAA: score 25.3</title></circle>
+<circle cx="449.8" cy="267.0" r="8.4" fill="#2563eb" opacity="0.88"><title>IND249407AAA: score 42.2</title></circle>
+<circle cx="540.1" cy="271.7" r="8.1" fill="#2563eb" opacity="0.88"><title>IND400102AAC: score 38.3</title></circle>
+<circle cx="297.3" cy="99.0" r="7.5" fill="#2563eb" opacity="0.88"><title>IND845305AAA: score 31.8</title></circle>
+<circle cx="506.6" cy="291.9" r="9.2" fill="#2563eb" opacity="0.88"><title>IND560099AAB: score 52.1</title></circle>
+<circle cx="496.0" cy="263.6" r="8.8" fill="#2563eb" opacity="0.88"><title>IND302014AAA: score 47.2</title></circle>
+<circle cx="1145.0" cy="527.1" r="6.9" fill="#2563eb" opacity="0.88"><title>IND145001AAA: score 23.8</title></circle>
+<circle cx="261.2" cy="59.6" r="8.0" fill="#2563eb" opacity="0.88"><title>IND847404AAB: score 36.9</title></circle>
+<circle cx="254.4" cy="55.0" r="9.1" fill="#2563eb" opacity="0.88"><title>IND842001AAA: score 50.8</title></circle>
+<circle cx="545.6" cy="274.7" r="8.2" fill="#2563eb" opacity="0.88"><title>IND400072AAD: score 40.5</title></circle>
+<circle cx="516.2" cy="305.7" r="9.0" fill="#2563eb" opacity="0.88"><title>IND751002AAB: score 49.4</title></circle>
+<circle cx="439.8" cy="269.1" r="6.9" fill="#2563eb" opacity="0.88"><title>IND249201AAA: score 23.7</title></circle>
+<circle cx="538.0" cy="286.3" r="6.6" fill="#2563eb" opacity="0.88"><title>IND700065AAA: score 20.1</title></circle>
+<circle cx="510.7" cy="271.4" r="9.3" fill="#2563eb" opacity="0.88"><title>IND110037AAM: score 54.0</title></circle>
+<circle cx="482.8" cy="259.3" r="8.9" fill="#2563eb" opacity="0.88"><title>IND462022AAA: score 48.9</title></circle>
+<circle cx="467.4" cy="252.4" r="8.0" fill="#2563eb" opacity="0.88"><title>IND110064AAA: score 38.1</title></circle>
+<circle cx="492.2" cy="266.1" r="8.8" fill="#2563eb" opacity="0.88"><title>IND273014AAB: score 47.1</title></circle>
+<circle cx="623.0" cy="232.0" r="8.6" fill="#2563eb" opacity="0.88"><title>IND834002AAB: score 45.3</title></circle>
+<circle cx="406.2" cy="266.0" r="8.8" fill="#2563eb" opacity="0.88"><title>IND000000ACA: score 47.4</title></circle>
+<circle cx="507.8" cy="261.8" r="8.6" fill="#2563eb" opacity="0.88"><title>IND305001AAC: score 44.6</title></circle>
+<circle cx="66.1" cy="176.2" r="8.0" fill="#2563eb" opacity="0.88"><title>IND175015AAA: score 36.9</title></circle>
+<circle cx="493.0" cy="263.7" r="9.0" fill="#2563eb" opacity="0.88"><title>IND209304AAA: score 50.4</title></circle>
+<circle cx="503.9" cy="295.3" r="8.9" fill="#2563eb" opacity="0.88"><title>IND560300AAA: score 49.0</title></circle>
+<circle cx="302.7" cy="104.7" r="7.3" fill="#2563eb" opacity="0.88"><title>IND847226AAA: score 28.5</title></circle>
+<circle cx="1082.4" cy="159.6" r="7.0" fill="#2563eb" opacity="0.88"><title>IND827013AAA: score 25.5</title></circle>
+<circle cx="411.3" cy="262.7" r="9.7" fill="#2563eb" opacity="0.88"><title>IND160002AAC: score 58.8</title></circle>
+</svg>

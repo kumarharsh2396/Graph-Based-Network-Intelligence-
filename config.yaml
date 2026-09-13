@@ -1,0 +1,31 @@
+data:
+  raw_path: data/delivery_data.csv
+  split_column: data
+  train_label: training
+  test_label: test
+
+graph:
+  late_ratio_threshold: 1.20
+  minimum_corridor_observations: 5
+  time_buckets:
+    night: [0, 6]
+    morning: [6, 12]
+    afternoon: [12, 18]
+    evening: [18, 24]
+
+model:
+  random_seed: 42
+  validation_fraction: 0.20
+  ridge_penalty: 2.0
+  graphsage_hidden_dim: 24
+  graphsage_epochs: 80
+  learning_rate: 0.01
+  weight_decay: 0.0001
+  patience: 12
+
+simulation:
+  hub_improvement_fraction: 0.30
+  revenue_per_prevented_breach: 1000.0
+  ftl_incremental_cost: 500.0
+  value_per_minute_saved: 10.0
+

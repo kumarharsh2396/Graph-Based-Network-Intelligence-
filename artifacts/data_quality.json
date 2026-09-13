@@ -1,0 +1,11 @@
+{
+  "raw_rows": 144867,
+  "leg_rows": 26369,
+  "unique_trips": 14817,
+  "unique_facilities": 1657,
+  "unique_directed_corridors": 2783,
+  "model_eligible_legs": 26369,
+  "negative_segment_legs": 21,
+  "missing_source_names": 66,
+  "missing_destination_names": 81
+}

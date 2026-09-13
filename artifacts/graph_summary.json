@@ -1,0 +1,9 @@
+{
+  "nodes": 1590,
+  "directed_edges": 2508,
+  "weak_components": 69,
+  "strong_components": 585,
+  "largest_weak_component": 1263,
+  "largest_strong_component": 834,
+  "chronic_delay_corridors": 1386
+}
