@@ -6,22 +6,47 @@ import pandas as pd
 st.set_page_config(page_title="Delivery Network Intelligence", layout="wide")
 st.markdown("""
 <style>
+/* KPI cards */
 [data-testid="stMetric"] {
-    background-color: #f1f5f9;
-    border: 1px solid #cbd5e1;
+    background-color: #1e293b !important;
+    border: 1px solid #475569 !important;
     padding: 15px;
     border-radius: 12px;
 }
 
-h1 {
-    color: #0f172a;
+[data-testid="stMetricLabel"] {
+    color: #cbd5e1 !important;
 }
 
-h2, h3 {
-    color: #1e3a8a;
+[data-testid="stMetricLabel"] p {
+    color: #cbd5e1 !important;
 }
 
-.stDataFrame {
+[data-testid="stMetricValue"] {
+    color: #ffffff !important;
+}
+
+[data-testid="stMetricDelta"] {
+    color: #93c5fd !important;
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #f8fafc !important;
+}
+
+/* Tabs */
+button[data-baseweb="tab"] {
+    color: #cbd5e1 !important;
+}
+
+button[data-baseweb="tab"][aria-selected="true"] {
+    color: #60a5fa !important;
+}
+
+/* Tables */
+[data-testid="stDataFrame"] {
+    border: 1px solid #475569;
     border-radius: 10px;
 }
 </style>
