@@ -75,7 +75,7 @@ with network:
 
     st.image(
         "artifacts/network_bottlenecks.svg",
-        use_column_width=True
+        use_container_width=True
     )
 
     st.subheader("Bottleneck Hub Ranking")
